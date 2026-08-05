@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e7efe3"/>
+  <g fill="#b98d3e">
+    <circle cx="160" cy="180" r="9"/>
+    <circle cx="260" cy="150" r="7"/>
+    <circle cx="420" cy="140" r="9"/>
+    <circle cx="520" cy="210" r="7"/>
+    <circle cx="600" cy="170" r="9"/>
+    <circle cx="340" cy="260" r="6"/>
+    <circle cx="220" cy="320" r="7"/>
+    <circle cx="480" cy="330" r="8"/>
+  </g>
+  <g stroke="#9c7530" stroke-width="2" stroke-dasharray="6 6" fill="none" opacity="0.7">
+    <path d="M160 180 L260 150 L420 140 L520 210 L600 170"/>
+    <path d="M260 150 L340 260 L220 320"/>
+    <path d="M420 140 L480 330"/>
+  </g>
+  <g transform="translate(360,340)">
+    <path d="M40 90 C32 68 33 54 41 36 C22 39 8 30 2 15 C18 17 28 10 35 0 C38 15 36 29 29 40 C40 43 51 38 58 29 C57 47 47 60 35 64 C38 72 37 82 34 90 Z" fill="#3f6b45"/>
+  </g>
+  <text x="400" y="70" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="30" fill="#1f3b2c">Un rituel partagé</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e7efe3"/>
+  <circle cx="200" cy="250" r="170" fill="#f4e9d3"/>
+  <circle cx="600" cy="250" r="170" fill="#f2ede0"/>
+  <g transform="translate(90,120)">
+    <path d="M110 250 C90 190 92 150 112 100 C60 108 20 82 4 40 C48 44 78 26 96 0 C104 40 100 80 80 110 C110 120 140 108 160 80 C158 130 130 168 96 178 C104 200 100 226 92 250 Z" fill="#3f6b45"/>
+    <text x="55" y="290" font-family="Fraunces, Georgia, serif" font-size="26" fill="#1f3b2c">Sidr</text>
+    <text x="20" y="316" font-family="Nunito Sans, sans-serif" font-size="14" fill="#6b6759">Ziziphus spina-christi</text>
+  </g>
+  <g transform="translate(500,120)">
+    <path d="M110 250 C90 190 92 150 112 100 C60 108 20 82 4 40 C48 44 78 26 96 0 C104 40 100 80 80 110 C110 120 140 108 160 80 C158 130 130 168 96 178 C104 200 100 226 92 250 Z" fill="#b98d3e"/>
+    <text x="30" y="290" font-family="Fraunces, Georgia, serif" font-size="26" fill="#1f3b2c">Jujubier</text>
+    <text x="10" y="316" font-family="Nunito Sans, sans-serif" font-size="14" fill="#6b6759">Ziziphus jujuba</text>
+  </g>
+  <text x="400" y="60" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="30" fill="#1f3b2c">Deux cousins du même genre</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e7efe3"/>
+  <g transform="translate(320,140)">
+    <path d="M80 0 C124 0 160 32 160 72 C160 112 124 144 80 144 C68 144 57 142 47 138 L10 156 L20 118 C8 105 0 90 0 72 C0 32 36 0 80 0 Z" fill="#ffffff"/>
+    <text x="80" y="92" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="70" fill="#b98d3e">?</text>
+  </g>
+  <g fill="#3f6b45" opacity="0.9">
+    <path d="M120 340 C112 322 113 310 119 296 C104 298 93 291 88 279 C101 281 109 275 114 267 C117 279 115 291 108 300 C117 302 126 298 132 291 C131 305 123 315 114 318 C116 325 116 333 114 340 Z"/>
+  </g>
+  <text x="400" y="70" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="30" fill="#1f3b2c">Vos questions sur le sidr</text>
+</svg>

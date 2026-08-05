@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f4e9d3"/>
+  <ellipse cx="400" cy="330" rx="180" ry="40" fill="#e0d4b0"/>
+  <path d="M240 260 C240 330 320 360 400 360 C480 360 560 330 560 260 L560 250 L240 250 Z" fill="#9c7530"/>
+  <ellipse cx="400" cy="250" rx="160" ry="34" fill="#c9a55e"/>
+  <ellipse cx="400" cy="248" rx="140" ry="26" fill="#7fae6c"/>
+  <g fill="#3f6b45">
+    <circle cx="340" cy="240" r="8"/>
+    <circle cx="400" cy="232" r="9"/>
+    <circle cx="460" cy="242" r="8"/>
+    <circle cx="430" cy="252" r="6"/>
+    <circle cx="370" cy="252" r="6"/>
+  </g>
+  <text x="400" y="70" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="30" fill="#1f3b2c">Le rituel du masque</text>
+</svg>

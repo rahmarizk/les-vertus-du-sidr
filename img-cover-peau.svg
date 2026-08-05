@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f2ede0"/>
+  <circle cx="400" cy="250" r="150" fill="#ffffff" opacity="0.6"/>
+  <g transform="translate(340,150)">
+    <path d="M60 0 C90 40 120 80 120 120 C120 156 93 182 60 182 C27 182 0 156 0 120 C0 80 30 40 60 0 Z" fill="#7fae6c"/>
+    <path d="M60 20 C82 50 104 82 104 116" stroke="#3f6b45" stroke-width="4" fill="none"/>
+  </g>
+  <circle cx="300" cy="330" r="10" fill="#d9b36c"/>
+  <circle cx="500" cy="310" r="7" fill="#d9b36c"/>
+  <circle cx="470" cy="360" r="5" fill="#b98d3e"/>
+  <text x="400" y="70" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="30" fill="#1f3b2c">Sidr &amp; peau</text>
+</svg>

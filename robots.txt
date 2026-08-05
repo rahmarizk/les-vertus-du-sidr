@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.lesvertusdusidr.fr/sitemap.xml
+Sitemap: https://www.lesvertusdusidr.fr/news-sitemap.xml

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f4e9d3"/>
+  <circle cx="640" cy="110" r="70" fill="#d9b36c" opacity="0.6"/>
+  <path d="M0 420 Q400 360 800 420 L800 500 L0 500 Z" fill="#e7efe3"/>
+  <g transform="translate(300,120)">
+    <rect x="88" y="230" width="24" height="130" fill="#9c7530"/>
+    <path d="M100 260 C40 250 10 200 6 150 C46 158 76 140 92 108 C100 150 92 190 66 214 C96 220 124 206 142 176 C150 214 130 244 100 260 Z" fill="#3f6b45"/>
+    <path d="M100 210 C150 200 178 160 182 118 C148 126 122 112 108 84 C100 118 106 152 128 172 C104 176 82 166 66 142 C62 172 78 196 100 210 Z" fill="#7fae6c"/>
+  </g>
+  <text x="400" y="70" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="30" fill="#1f3b2c">Un arbre millénaire</text>
+</svg>
