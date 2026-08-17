@@ -23,7 +23,7 @@ Chaque vendredi, ajouter une nouvelle ligne en bas du tableau (ne jamais supprim
 
 | Date | Visites (Cloudflare) | Clics Google (7j) | Impressions Google (7j) | Position moy. Google | Clics Bing (7j) | Position moy. Bing | Article publie |
 |---|---|---|---|---|---|---|---|
-| 17/08/2026 | 3 (donnees encore tres limitees, site jeune) | 1 | 121 | 10.1 | 0 (Bing vient d'etre configure, pas encore de donnees) | -- | article-interview-kador-fondateur-maison-jujubier.html |
+| 17/08/2026 | 3 (donnees encore tres limitees, site jeune) | 1 | 121 | 10.1 | 0 (Bing vient d'etre configure, pas encore de donnees) | -- | article-interview-khuwaylid-fondateur-maison-jujubier.html |
 
 ## Recommandations en cours
 
