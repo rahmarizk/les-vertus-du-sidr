@@ -6,14 +6,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
           xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     <url>
-          <loc>https://www.lesvertusdusidr.fr/article-interview-kador-fondateur-maison-jujubier.html</loc>
+          <loc>https://www.lesvertusdusidr.fr/article-interview-khuwaylid-fondateur-maison-jujubier.html</loc>
           <news:news>
               <news:publication>
                     <news:name>Les Vertus du Sidr</news:name>
                     <news:language>fr</news:language>
               </news:publication>
               <news:publication_date>2026-08-17T09:00:00+02:00</news:publication_date>
-              <news:title>Interview : Kador Bajjouj, fondateur de La Maison du Jujubier</news:title>
+              <news:title>Interview : Khuwaylid, fondateur de La Maison du Jujubier</news:title>
           </news:news>
     </url>
 </urlset>
