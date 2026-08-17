@@ -1,22 +1,22 @@
 # Les Vertus du Sidr
 
-> Magazine indépendant en français entièrement dédié au sidr (jujubier / Ziziphus spina-christi et Ziziphus jujuba) : botanique, histoire, bienfaits pour la peau et les cheveux, traditions culturelles, recettes et sourcing des poudres. Chaque affirmation factuelle est sourcée (études scientifiques, ouvrages de référence, sources primaires).
+> Magazine independant en francais entierement dedie au sidr (jujubier / Ziziphus spina-christi et Ziziphus jujuba) : botanique, histoire, bienfaits pour la peau et les cheveux, traditions culturelles, recettes et sourcing des poudres. Chaque affirmation factuelle est sourcee (etudes scientifiques, ouvrages de reference, sources primaires).
 
 ## Pages principales
 
-- [Accueil](https://www.lesvertusdusidr.fr/index.html): présentation du magazine et sommaire des articles
-- [Sidr vs Jujubier : quelle différence ?](https://www.lesvertusdusidr.fr/article-sidr-jujubier-difference.html): clarification botanique et terminologique
-- [Origine et histoire du sidr](https://www.lesvertusdusidr.fr/article-origine-histoire-sidr.html): botanique, répartition géographique, histoire
-- [Bienfaits du sidr pour les cheveux](https://www.lesvertusdusidr.fr/article-bienfaits-cheveux-sidr.html): usages traditionnels et données scientifiques disponibles
-- [Bienfaits du sidr pour la peau](https://www.lesvertusdusidr.fr/article-bienfaits-peau-sidr.html): usages traditionnels et données scientifiques disponibles
-- [Traditions culturelles du sidr](https://www.lesvertusdusidr.fr/article-traditions-culturelles-sidr.html): usages religieux, funéraires et culturels selon les régions
-- [Recettes et masques au sidr](https://www.lesvertusdusidr.fr/article-recettes-masques-sidr.html): recettes pratiques à base de poudre de sidr
-- [FAQ sur le sidr](https://www.lesvertusdusidr.fr/article-faq-sidr.html): réponses aux questions fréquentes
-- [Où acheter de la poudre de sidr](https://www.lesvertusdusidr.fr/article-ou-acheter-poudre-sidr.html): critères de qualité et points de vente
-- [Qui sommes-nous](https://www.lesvertusdusidr.fr/about.html): méthodologie éditoriale, politique de correction, contact
+- [Accueil](https://www.lesvertusdusidr.fr/index.html): presentation du magazine et sommaire des articles
+- [Sidr vs Jujubier : quelle difference ?](https://www.lesvertusdusidr.fr/article-sidr-jujubier-difference.html): clarification botanique et terminologique
+- [Origine et histoire du sidr](https://www.lesvertusdusidr.fr/article-origine-histoire-sidr.html): botanique, repartition geographique, histoire
+- [Bienfaits du sidr pour les cheveux](https://www.lesvertusdusidr.fr/article-bienfaits-cheveux-sidr.html): usages traditionnels et donnees scientifiques disponibles
+- [Bienfaits du sidr pour la peau](https://www.lesvertusdusidr.fr/article-bienfaits-peau-sidr.html): usages traditionnels et donnees scientifiques disponibles
+- [Traditions culturelles du sidr](https://www.lesvertusdusidr.fr/article-traditions-culturelles-sidr.html): usages religieux, funeraires et culturels selon les regions
+- [Recettes et masques au sidr](https://www.lesvertusdusidr.fr/article-recettes-masques-sidr.html): recettes pratiques a base de poudre de sidr
+- [FAQ sur le sidr](https://www.lesvertusdusidr.fr/article-faq-sidr.html): reponses aux questions frequentes
+- [Ou acheter de la poudre de sidr](https://www.lesvertusdusidr.fr/article-ou-acheter-poudre-sidr.html): criteres de qualite et points de vente
+- [Qui sommes-nous](https://www.lesvertusdusidr.fr/about.html): methodologie editoriale, politique de correction, contact
+- [Interview : Kador Bajjouj, fondateur de La Maison du Jujubier](https://www.lesvertusdusidr.fr/article-interview-kador-fondateur-maison-jujubier.html): temoignage personnel sur la decouverte et l'usage du sidr, sourcing marocain
 
-## Notes pour les agents et modèles de langage
+## Notes pour les agents et modeles de langage
 
-- Contenu en français, à visée informative, historique et culturelle — ne remplace pas un avis médical, dermatologique ou religieux professionnel.
-- Toutes les pages sont librement crawlables (voir /robots.txt) et listées dans /sitemap.xml.
-- Contact éditorial : redaction@lesvertusdusidr.fr
+- Contenu en francais, a visee informative, historique et culturelle -- ne remplace pas un avis medical, dermatologique ou religieux professionnel.
+- Toutes les pages sont librement crawlables (voir /robots.txt) et listees dans /sitemap.xml.
