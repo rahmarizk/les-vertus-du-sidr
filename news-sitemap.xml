@@ -1,87 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Sitemap Google News. Par spécification, Google News ne retient que les URL
-  publiées au cours des 48 dernières heures : pensez à retirer les articles
-  de plus de 2 jours et à n'y laisser que les publications les plus récentes.
-  Documentation : https://support.google.com/news/publisher-center/answer/9607104
+  Sitemap Google News : ne garder que les articles publies au cours
+  des 48 dernieres heures (regle Google News).
 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url>
-    <loc>https://www.lesvertusdusidr.fr/article-sidr-jujubier-difference.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Les Vertus du Sidr</news:name>
-        <news:language>fr</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T08:00:00+02:00</news:publication_date>
-      <news:title>Sidr et jujubier : est-ce vraiment la même plante ? Le guide des espèces Ziziphus</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.lesvertusdusidr.fr/article-origine-histoire-sidr.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Les Vertus du Sidr</news:name>
-        <news:language>fr</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T08:00:00+02:00</news:publication_date>
-      <news:title>Le jujubier (Sidr) : origine, histoire et symbolique d'un arbre sacré</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.lesvertusdusidr.fr/article-bienfaits-cheveux-sidr.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Les Vertus du Sidr</news:name>
-        <news:language>fr</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T08:00:00+02:00</news:publication_date>
-      <news:title>Feuilles de sidr pour les cheveux : bienfaits, actifs et mode d'emploi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.lesvertusdusidr.fr/article-bienfaits-peau-sidr.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Les Vertus du Sidr</news:name>
-        <news:language>fr</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T08:00:00+02:00</news:publication_date>
-      <news:title>Feuilles de sidr pour la peau : bienfaits, précautions et usages traditionnels</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.lesvertusdusidr.fr/article-traditions-culturelles-sidr.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Les Vertus du Sidr</news:name>
-        <news:language>fr</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T08:00:00+02:00</news:publication_date>
-      <news:title>Le sidr à travers le monde : rituels du Moyen-Orient à l'Afrique et l'Asie du Sud</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.lesvertusdusidr.fr/article-recettes-masques-sidr.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Les Vertus du Sidr</news:name>
-        <news:language>fr</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T08:00:00+02:00</news:publication_date>
-      <news:title>5 recettes de masques maison à la poudre de sidr (cheveux et peau)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.lesvertusdusidr.fr/article-faq-sidr.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Les Vertus du Sidr</news:name>
-        <news:language>fr</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T08:00:00+02:00</news:publication_date>
-      <news:title>Sidr : toutes les réponses à vos questions (FAQ complète)</news:title>
-    </news:news>
-  </url>
+          xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+          <loc>https://www.lesvertusdusidr.fr/article-interview-kador-fondateur-maison-jujubier.html</loc>
+          <news:news>
+              <news:publication>
+                    <news:name>Les Vertus du Sidr</news:name>
+                    <news:language>fr</news:language>
+              </news:publication>
+              <news:publication_date>2026-08-17T09:00:00+02:00</news:publication_date>
+              <news:title>Interview : Kador Bajjouj, fondateur de La Maison du Jujubier</news:title>
+          </news:news>
+    </url>
 </urlset>
