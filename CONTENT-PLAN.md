@@ -15,7 +15,7 @@ Rythme cible : environ 1 article sur 4 est une interview, le reste des sujets de
 
 | # | Interviewe·e | Statut | Fichier | Notes |
 |---|---|---|---|---|
-| 1 | Kador Bajjouj -- fondateur de La Maison du Jujubier | Publie (17/08/2026) | article-interview-kador-fondateur-maison-jujubier.html | Premier article interview du site, publie le 17/08/2026. |
+| 1 | Khuwaylid -- fondateur de La Maison du Jujubier | Publie (17/08/2026) | article-interview-khuwaylid-fondateur-maison-jujubier.html | Premier article interview du site, publie le 17/08/2026. |
 | 2 | Herboriste / praticien·ne du soin naturel specialise·e sidr | A faire | | Identifier une personne reelle et contactable (site pro, reseaux, boutique) via recherche web avant de contacter. |
 | 3 | Producteur ou importateur de poudre de sidr | A faire | | Idem : identifier une entreprise/personne reelle avant contact. |
 | 4 | Historien·ne ou specialiste religieux (usage du sidr en islam / Egypte ancienne) | A faire | | Idem. |
