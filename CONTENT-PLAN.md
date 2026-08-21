@@ -16,7 +16,7 @@ Rythme cible : environ 1 article sur 4 est une interview, le reste des sujets de
 | # | Interviewe·e | Statut | Fichier | Notes |
 |---|---|---|---|---|
 | 1 | Khuwaylid -- fondateur de La Maison du Jujubier | Publie (17/08/2026) | article-interview-khuwaylid-fondateur-maison-jujubier.html | Premier article interview du site, publie le 17/08/2026. |
-| 2 | Herboriste / praticien·ne du soin naturel specialise·e sidr | A faire | | Identifier une personne reelle et contactable (site pro, reseaux, boutique) via recherche web avant de contacter. |
+| 2 | Herboriste / praticien·ne du soin naturel specialise·e sidr | Contacte (21/08/2026) | | Contact identifie : Herboristerie du Palais Royal (Michel Pierre), Paris -- vend du jujubier/sidr en vrac origine Maroc. Email de demande d'interview envoye le 21/08/2026 a contact@herboristerie.com (8 questions ouvertes, attribution ou anonymat au choix, brouillon envoye avant publication). En attente de reponse. |
 | 3 | Producteur ou importateur de poudre de sidr | A faire | | Idem : identifier une entreprise/personne reelle avant contact. |
 | 4 | Historien·ne ou specialiste religieux (usage du sidr en islam / Egypte ancienne) | A faire | | Idem. |
 
@@ -24,7 +24,7 @@ Rythme cible : environ 1 article sur 4 est une interview, le reste des sujets de
 
 | # | Sujet | Statut | Fichier | Notes |
 |---|---|---|---|---|
-| 1 | Le sidr dans le Coran et l'islam : la Sidrat al-Muntaha et les usages religieux | A faire | | |
+| 1 | Le sidr dans le Coran et l'islam : la Sidrat al-Muntaha et les usages religieux | Publie (21/08/2026) | article-sidr-coran-islam.html | |
 | 2 | Le miel de sidr (Sidr honey) : un produit distinct de la poudre de feuilles | A faire | | Bien clarifier la difference avec la poudre cosmetique. |
 | 3 | Comment reconnaitre une poudre de sidr pure (qualite, couleur, odeur, tests simples) | A faire | | |
 | 4 | Sidr et cuir chevelu sec / pellicules : que dit la litterature scientifique | A faire | | |
@@ -41,5 +41,5 @@ Rythme cible : environ 1 article sur 4 est une interview, le reste des sujets de
 
 1. Lire ce fichier. Si une ligne "Interview" est a l'etat `Reponses recues`, rediger cet article en priorite.
 2. Sinon, si aucune interview n'est `Contacte` ou `En attente`, identifier une nouvelle personne reelle pour la prochaine ligne "Interview" a `A faire` et lui envoyer une demande d'interview par email.
-3.  Publier un article de recherche source (prochaine ligne `A faire` dans la table Sujets de recherche) pour la semaine en cours.
-4.   Mettre a jour ce fichier (statut + date + nom de fichier) et le republier sur GitHub dans le meme commit que l'article, ou dans un commit separe juste apres.
+3. Publier un article de recherche source (prochaine ligne `A faire` dans la table Sujets de recherche) pour la semaine en cours.
+4. Mettre a jour ce fichier (statut + date + nom de fichier) et le republier sur GitHub dans le meme commit que l'article, ou dans un commit separe juste apres.
