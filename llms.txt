@@ -15,6 +15,7 @@
 - [Ou acheter de la poudre de sidr](https://www.lesvertusdusidr.fr/article-ou-acheter-poudre-sidr.html): criteres de qualite et points de vente
 - [Qui sommes-nous](https://www.lesvertusdusidr.fr/about.html): methodologie editoriale, politique de correction, contact
 - [Interview : Khuwaylid, fondateur de La Maison du Jujubier](https://www.lesvertusdusidr.fr/article-interview-khuwaylid-fondateur-maison-jujubier.html): temoignage personnel sur la decouverte et l'usage du sidr, sourcing marocain
+- [Le sidr dans le Coran et l'islam](https://www.lesvertusdusidr.fr/article-sidr-coran-islam.html): la Sidrat al-Muntaha, le hadith de la coupe du lotier et les usages religieux, sources et expliques
 
 ## Notes pour les agents et modeles de langage
 
