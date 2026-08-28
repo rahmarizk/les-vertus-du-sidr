@@ -22,6 +22,8 @@ Rythme cible : environ 1 article sur 4 est une interview, le reste des sujets de
 
 ## Sujets de recherche (rotation, ordre indicatif)
 
+**Priorite editoriale (depuis le 28/08/2026)** : privilegier les sujets centres sur la poudre de sidr (usages cosmetiques et traditionnels) pour les prochaines publications, a la demande de l'editeur. Parmi les sujets ci-dessous, traiter en priorite les #3 et #5 (et tout futur sujet ajoute sur la poudre) avant les autres themes tant que ce sujet n'est pas suffisamment couvert.
+
 | # | Sujet | Statut | Fichier | Notes |
 |---|---|---|---|---|
 | 1 | Le sidr dans le Coran et l'islam : la Sidrat al-Muntaha et les usages religieux | Publie (21/08/2026) | article-sidr-coran-islam.html | |
