@@ -25,7 +25,7 @@ Rythme cible : environ 1 article sur 4 est une interview, le reste des sujets de
 | # | Sujet | Statut | Fichier | Notes |
 |---|---|---|---|---|
 | 1 | Le sidr dans le Coran et l'islam : la Sidrat al-Muntaha et les usages religieux | Publie (21/08/2026) | article-sidr-coran-islam.html | |
-| 2 | Le miel de sidr (Sidr honey) : un produit distinct de la poudre de feuilles | A faire | | Bien clarifier la difference avec la poudre cosmetique. |
+| 2 | Le miel de sidr (Sidr honey) : un produit distinct de la poudre de feuilles | Publie (28/08/2026) | article-miel-de-sidr.html | Bien clarifier la difference avec la poudre cosmetique. |
 | 3 | Comment reconnaitre une poudre de sidr pure (qualite, couleur, odeur, tests simples) | A faire | | |
 | 4 | Sidr et cuir chevelu sec / pellicules : que dit la litterature scientifique | A faire | | |
 | 5 | Poudre de sidr marocaine, yemenite, indienne : differences de terroir | A faire | | |
