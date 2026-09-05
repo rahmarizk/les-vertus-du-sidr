@@ -4,14 +4,14 @@ des 48 dernieres heures (regle Google News).
 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
-<loc>https://www.lesvertusdusidr.fr/article-miel-de-sidr.html</loc>
+<loc>https://www.lesvertusdusidr.fr/article-reconnaitre-poudre-sidr-pure.html</loc>
 <news:news>
 <news:publication>
 <news:name>Les Vertus du Sidr</news:name>
 <news:language>fr</news:language>
 </news:publication>
-<news:publication_date>2026-08-28T08:00:00+02:00</news:publication_date>
-<news:title>Le miel de sidr : bien plus que la poudre de feuilles</news:title>
+<news:publication_date>2026-09-05T08:00:00+02:00</news:publication_date>
+<news:title>Comment reconnaître une poudre de sidr pure ?</news:title>
 </news:news>
 </url>
 </urlset>
