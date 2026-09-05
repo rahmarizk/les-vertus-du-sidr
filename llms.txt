@@ -17,6 +17,7 @@
 - [Interview : Khuwaylid, fondateur de La Maison du Jujubier](https://www.lesvertusdusidr.fr/article-interview-khuwaylid-fondateur-maison-jujubier.html): temoignage personnel sur la decouverte et l'usage du sidr, sourcing marocain
 - [Le sidr dans le Coran et l'islam](https://www.lesvertusdusidr.fr/article-sidr-coran-islam.html): la Sidrat al-Muntaha, le hadith de la coupe du lotier et les usages religieux, sources et expliques
 - [Le miel de sidr : bien plus que la poudre de feuilles](https://www.lesvertusdusidr.fr/article-miel-de-sidr.html): nectar rare des fleurs du jujubier, distinct de la poudre de feuilles, origine et etudes scientifiques disponibles
+- [Comment reconnaitre une poudre de sidr pure ?](https://www.lesvertusdusidr.fr/article-reconnaitre-poudre-sidr-pure.html): couleur, odeur, texture et tracabilite, criteres pratiques pour juger de la purete d'une poudre de sidr
 
 ## Notes pour les agents et modeles de langage
 
