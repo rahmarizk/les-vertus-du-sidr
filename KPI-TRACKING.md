@@ -16,6 +16,7 @@ Ce fichier est mis a jour chaque semaine par la tache planifiee "sidr-weekly-art
 | acheter poudre de sidr | article-ou-acheter-poudre-sidr.html |
 | sidr bienfaits | article-faq-sidr.html |
 | sidr islam | article-traditions-culturelles-sidr.html |
+| poudre de sidr maroc yemen inde | article-poudre-sidr-maroc-yemen-inde.html |
 
 ## Historique hebdomadaire
 
@@ -27,16 +28,16 @@ Chaque vendredi, ajouter une nouvelle ligne en bas du tableau (ne jamais supprim
 | 21/08/2026 | Non disponible (session Cloudflare non connectee dans le navigateur cette semaine -- a reverifier la prochaine fois) | 7 | 217 | 10.1 | 0 | 6.0 (moyenne des 5 mots-cles avec impressions : 8.0, 6.0, 7.0, 6.0, 3.0) | article-sidr-coran-islam.html |
 | 28/08/2026 | Non disponible (session Cloudflare non authentifiee cette semaine -- login requis, a reconnecter) | 5 | 202 | 8.2 | Non disponible (session Bing non authentifiee cette semaine -- login requis, a reconnecter) | -- | article-miel-de-sidr.html |
 | 05/09/2026 | Non disponible (session Cloudflare non authentifiee cette semaine -- login requis, a reconnecter) | 1 | 180 | 18.2 | Non disponible (session Bing non authentifiee cette semaine -- login requis, a reconnecter) | -- | article-reconnaitre-poudre-sidr-pure.html |
+| 11/09/2026 | Cloudflare authentifie mais widget de selection de periode 7 jours inaccessible dans cet environnement automatise cette semaine (0 visite / 0 page vue affichees sur les dernieres 24h par defaut) | 4 | 120 | 26.1 | Non disponible (session Bing non authentifiee cette semaine -- login requis, a reconnecter) | -- | article-poudre-sidr-maroc-yemen-inde.html |
 
 ## Recommandations en cours
 
 Cette section est reecrite chaque semaine avec les recommandations actives (garder 3-5 recommandations maximum, retirer celles qui ne sont plus pertinentes, expliquer brievement le pourquoi).
 
-- Position moyenne Google en nette degradation cette semaine (18.2 vs 8.2 la semaine derniere) et CTR quasi nul (0.6 %, 1 clic pour 180 impressions) : surveiller si c'est une fluctuation normale le temps que les nouvelles pages s'indexent, ou un signal a corriger (verifier balises titre/meta des articles recents lors du prochain point).
-- Cloudflare Web Analytics ET Bing Webmaster Tools inaccessibles pour la troisieme semaine consecutive (sessions non authentifiees, ecran de connexion a chaque tentative) : reconnexion prioritaire des deux comptes des que possible -- ce trou de donnees repete empeche d'evaluer le trafic reel du site depuis pres de trois semaines.
-- Impressions Google toujours tres dispersees sur de la longue traine (aucune requete au-dela de 3 impressions sur 7 jours) : poursuivre l'accumulation de contenu, en particulier sur le nouvel axe editorial "poudre de sidr" (article de cette semaine sur la reconnaissance d'une poudre pure, et sujet #5 sur les differences de terroir a traiter en priorite) pour concentrer le signal.
-- Sujet "miel de sidr" (publie le 28/08/2026) a continuer de suivre dans Search Console pour verifier s'il capte des requetes propres (ex. "miel de sidr", "sidr honey") distinctes de celles sur la poudre cosmetique.
-- Poursuivre la publication hebdomadaire reguliere : le site a un peu plus de 5 semaines de donnees, c'est encore le levier principal pour batir un historique SEO exploitable.
+- Position moyenne Google continue de se degrader sur 3 semaines consecutives (8.2 -> 18.2 -> 26.1), meme si le CTR remonte un peu cette semaine (3.3 %, 4 clics pour 120 impressions, contre 0.6 % la semaine derniere) : surveiller si l'indexation des nombreuses pages recentes dilue temporairement le signal de position, sinon revoir les balises titre/meta description des articles les plus recents.
+- Bing Webmaster Tools reste inaccessible pour la quatrieme semaine consecutive (session non authentifiee a chaque tentative) : reconnexion prioritaire des que possible pour retrouver un historique Bing exploitable. Cloudflare est bien authentifie mais le selecteur de periode "7 jours" n'a pas pu etre actionne cette semaine dans l'environnement automatise -- a reverifier manuellement ou lors d'une prochaine execution.
+- L'axe editorial "poudre de sidr" est maintenant bien couvert (reconnaitre une poudre pure, differences de terroir Maroc/Yemen/Inde, difference sidr/jujubier) : profiter des prochaines semaines pour renforcer le maillage interne croise entre ces articles plutot que d'ajouter un nouveau sujet poudre dans l'immediat.
+- Poursuivre la publication hebdomadaire reguliere : le site approche de 6 semaines de donnees, ce qui reste le levier principal pour batir un historique SEO exploitable et lisser les fluctuations observees.
 
 ## Ou trouver les chiffres
 
