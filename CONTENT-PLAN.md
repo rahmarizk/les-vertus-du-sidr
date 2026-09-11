@@ -16,21 +16,21 @@ Rythme cible : environ 1 article sur 4 est une interview, le reste des sujets de
 | # | Interviewe·e | Statut | Fichier | Notes |
 |---|---|---|---|---|
 | 1 | Khuwaylid -- fondateur de La Maison du Jujubier | Publie (17/08/2026) | article-interview-khuwaylid-fondateur-maison-jujubier.html | Premier article interview du site, publie le 17/08/2026. |
-| 2 | Herboriste / praticien·ne du soin naturel specialise·e sidr | Contacte (21/08/2026) | | Contact identifie : Herboristerie du Palais Royal (Michel Pierre), Paris -- vend du jujubier/sidr en vrac origine Maroc. Email de demande d'interview envoye le 21/08/2026 a contact@herboristerie.com (8 questions ouvertes, attribution ou anonymat au choix, brouillon envoye avant publication). Toujours en attente de reponse au 05/09/2026 (verifie dans Gmail, aucun message recu de contact@herboristerie.com). |
+| 2 | Herboriste / praticien·ne du soin naturel specialise·e sidr | Contacte (21/08/2026) | | Contact identifie : Herboristerie du Palais Royal (Michel Pierre), Paris -- vend du jujubier/sidr en vrac origine Maroc. Email de demande d'interview envoye le 21/08/2026 a contact@herboristerie.com (8 questions ouvertes, attribution ou anonymat au choix, brouillon envoye avant publication). Toujours en attente de reponse au 11/09/2026 (verifie dans Gmail, aucun message recu de contact@herboristerie.com). |
 | 3 | Producteur ou importateur de poudre de sidr | A faire | | Idem : identifier une entreprise/personne reelle avant contact. |
 | 4 | Historien·ne ou specialiste religieux (usage du sidr en islam / Egypte ancienne) | A faire | | Idem. |
 
 ## Sujets de recherche (rotation, ordre indicatif)
 
-**Priorite editoriale (depuis le 28/08/2026)** : privilegier les sujets centres sur la poudre de sidr (usages cosmetiques et traditionnels) pour les prochaines publications, a la demande de l'editeur. Parmi les sujets ci-dessous, traiter en priorite les #3 et #5 (et tout futur sujet ajoute sur la poudre) avant les autres themes tant que ce sujet n'est pas suffisamment couvert.
+**Priorite editoriale (depuis le 28/08/2026)** : privilegier les sujets centres sur la poudre de sidr (usages cosmetiques et traditionnels) pour les prochaines publications, a la demande de l'editeur. Les sujets #3 et #5 (poudre) ont ete traites ; poursuivre avec les themes ci-dessous en respectant l'ordre indicatif, en continuant a privilegier tout futur sujet ajoute sur la poudre tant que cet axe n'est pas suffisamment couvert.
 
 | # | Sujet | Statut | Fichier | Notes |
 |---|---|---|---|---|
 | 1 | Le sidr dans le Coran et l'islam : la Sidrat al-Muntaha et les usages religieux | Publie (21/08/2026) | article-sidr-coran-islam.html | |
 | 2 | Le miel de sidr (Sidr honey) : un produit distinct de la poudre de feuilles | Publie (28/08/2026) | article-miel-de-sidr.html | Bien clarifier la difference avec la poudre cosmetique. |
 | 3 | Comment reconnaitre une poudre de sidr pure (qualite, couleur, odeur, tests simples) | Publie (05/09/2026) | article-reconnaitre-poudre-sidr-pure.html | Couleur, odeur, texture, test de la mousse, reference aux normes OMS et FDA (henne) par analogie, criblage phytochimique NAPATA. |
-| 4 | Sidr et cuir chevelu sec / pellicules : que dit la litterature scientifique | A faire | | |
-| 5 | Poudre de sidr marocaine, yemenite, indienne : differences de terroir | A faire | | A traiter en priorite (sujet poudre). |
+| 4 | Sidr et cuir chevelu sec / pellicules : que dit la litterature scientifique | A faire | | A traiter en priorite la semaine prochaine (aucun sujet poudre restant marque prioritaire). |
+| 5 | Poudre de sidr marocaine, yemenite, indienne : differences de terroir | Publie (11/09/2026) | article-poudre-sidr-maroc-yemen-inde.html | Clarifie que "Maroc" correspond surtout a Ziziphus lotus (sedra), "Yemen" a Ziziphus spina-christi, et "Inde" au ber (Ziziphus mauritiana) -- terroirs = especes differentes le plus souvent. Chiffres precis d'altitude/saponines de certains guides d'achat identifies comme non verifies (source commerciale). Image de couverture reutilisee (img-cover-difference.jpg) faute d'acces a un outil de generation Gemini/Imagen dans cet environnement. |
 | 6 | Le sidr dans l'Egypte ancienne : usages funeraires et momification | A faire | | |
 | 7 | Ghassoul et sidr : les rituels de lavage traditionnels au Maghreb | A faire | | |
 | 8 | Sidr, grossesse et allaitement : ce que l'on sait (et ne sait pas) | A faire | | Rester prudent, renvoyer vers avis medical. |
