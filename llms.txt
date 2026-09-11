@@ -18,6 +18,7 @@
 - [Le sidr dans le Coran et l'islam](https://www.lesvertusdusidr.fr/article-sidr-coran-islam.html): la Sidrat al-Muntaha, le hadith de la coupe du lotier et les usages religieux, sources et expliques
 - [Le miel de sidr : bien plus que la poudre de feuilles](https://www.lesvertusdusidr.fr/article-miel-de-sidr.html): nectar rare des fleurs du jujubier, distinct de la poudre de feuilles, origine et etudes scientifiques disponibles
 - [Comment reconnaitre une poudre de sidr pure ?](https://www.lesvertusdusidr.fr/article-reconnaitre-poudre-sidr-pure.html): couleur, odeur, texture et tracabilite, criteres pratiques pour juger de la purete d'une poudre de sidr
+- [Poudre de sidr marocaine, yemenite, indienne](https://www.lesvertusdusidr.fr/article-poudre-sidr-maroc-yemen-inde.html): differences d'especes de Ziziphus et de terroir selon l'origine geographique, ce qui est prouve scientifiquement et ce qui releve du marketing
 
 ## Notes pour les agents et modeles de langage
 
