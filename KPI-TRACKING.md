@@ -4,19 +4,27 @@ Ce fichier est mis a jour chaque semaine par la tache planifiee "sidr-weekly-art
 
 ## Mots-cles principaux suivis
 
+Depuis la refonte SEO du 14/09/2026, les URLs du site sont propres (sans `.html`) : relever les positions sur ces URLs.
+
 | Mot-cle | Page cible |
 |---|---|
-| sidr | index.html |
-| poudre de sidr | article-ou-acheter-poudre-sidr.html |
-| feuille de sidr | article-origine-histoire-sidr.html |
-| sidr cheveux | article-bienfaits-cheveux-sidr.html |
-| sidr peau | article-bienfaits-peau-sidr.html |
-| jujubier | article-sidr-jujubier-difference.html |
-| masque sidr | article-recettes-masques-sidr.html |
-| acheter poudre de sidr | article-ou-acheter-poudre-sidr.html |
-| sidr bienfaits | article-faq-sidr.html |
-| sidr islam | article-traditions-culturelles-sidr.html |
-| poudre de sidr maroc yemen inde | article-poudre-sidr-maroc-yemen-inde.html |
+| sidr | / (home) |
+| poudre de sidr | /poudre-de-sidr (page pilier, publiee le 14/09/2026) |
+| poudre de sidr cheveux | /poudre-de-sidr |
+| poudre de sidr bienfaits | /poudre-de-sidr |
+| feuille de sidr | /article-origine-histoire-sidr |
+| sidr cheveux | /article-bienfaits-cheveux-sidr |
+| sidr peau | /article-bienfaits-peau-sidr |
+| jujubier | /article-sidr-jujubier-difference |
+| masque sidr | /article-recettes-masques-sidr |
+| acheter poudre de sidr | /article-ou-acheter-poudre-sidr |
+| ou acheter poudre de sidr | /article-ou-acheter-poudre-sidr |
+| sidr bienfaits | /article-faq-sidr |
+| sidr islam | /article-traditions-culturelles-sidr |
+| sidrat al muntaha | /article-sidr-coran-islam |
+| poudre de sidr pure | /article-reconnaitre-poudre-sidr-pure |
+| poudre de sidr maroc yemen inde | /article-poudre-sidr-maroc-yemen-inde |
+| miel de sidr | /article-miel-de-sidr |
 
 ## Historique hebdomadaire
 
@@ -29,15 +37,16 @@ Chaque vendredi, ajouter une nouvelle ligne en bas du tableau (ne jamais supprim
 | 28/08/2026 | Non disponible (session Cloudflare non authentifiee cette semaine -- login requis, a reconnecter) | 5 | 202 | 8.2 | Non disponible (session Bing non authentifiee cette semaine -- login requis, a reconnecter) | -- | article-miel-de-sidr.html |
 | 05/09/2026 | Non disponible (session Cloudflare non authentifiee cette semaine -- login requis, a reconnecter) | 1 | 180 | 18.2 | Non disponible (session Bing non authentifiee cette semaine -- login requis, a reconnecter) | -- | article-reconnaitre-poudre-sidr-pure.html |
 | 11/09/2026 | Cloudflare authentifie mais widget de selection de periode 7 jours inaccessible dans cet environnement automatise cette semaine (0 visite / 0 page vue affichees sur les dernieres 24h par defaut) | 4 | 120 | 26.1 | Non disponible (session Bing non authentifiee cette semaine -- login requis, a reconnecter) | -- | article-poudre-sidr-maroc-yemen-inde.html |
+| 14/09/2026 (hors cycle : refonte SEO) | -- | Reference 28 jours (15/08-11/09) : 19 clics | 643 impressions (28j) | 13.5 (28j) | -- | -- | poudre-de-sidr.html (page pilier) + refonte complete du site (URLs propres, comparatif « ou acheter », mentions legales, redirection non-www -> www, sitemap 17 URLs, 6 demandes d'indexation dans Search Console) |
 
 ## Recommandations en cours
 
 Cette section est reecrite chaque semaine avec les recommandations actives (garder 3-5 recommandations maximum, retirer celles qui ne sont plus pertinentes, expliquer brievement le pourquoi).
 
-- Position moyenne Google continue de se degrader sur 3 semaines consecutives (8.2 -> 18.2 -> 26.1), meme si le CTR remonte un peu cette semaine (3.3 %, 4 clics pour 120 impressions, contre 0.6 % la semaine derniere) : surveiller si l'indexation des nombreuses pages recentes dilue temporairement le signal de position, sinon revoir les balises titre/meta description des articles les plus recents.
-- Bing Webmaster Tools reste inaccessible pour la quatrieme semaine consecutive (session non authentifiee a chaque tentative) : reconnexion prioritaire des que possible pour retrouver un historique Bing exploitable. Cloudflare est bien authentifie mais le selecteur de periode "7 jours" n'a pas pu etre actionne cette semaine dans l'environnement automatise -- a reverifier manuellement ou lors d'une prochaine execution.
-- L'axe editorial "poudre de sidr" est maintenant bien couvert (reconnaitre une poudre pure, differences de terroir Maroc/Yemen/Inde, difference sidr/jujubier) : profiter des prochaines semaines pour renforcer le maillage interne croise entre ces articles plutot que d'ajouter un nouveau sujet poudre dans l'immediat.
-- Poursuivre la publication hebdomadaire reguliere : le site approche de 6 semaines de donnees, ce qui reste le levier principal pour batir un historique SEO exploitable et lisser les fluctuations observees.
+- Refonte SEO deployee le 14/09/2026 (plan 30 jours, objectif « sidr » / « poudre de sidr ») : verifier chaque vendredi dans Search Console que `/poudre-de-sidr`, `/article-ou-acheter-poudre-sidr`, `/article-reconnaitre-poudre-sidr-pure`, `/article-poudre-sidr-maroc-yemen-inde` et `/article-miel-de-sidr` passent en « Indexee » (au 14/09 : 13 pages non indexees dont 8 « page en double avec canonique », 4 « detectee, non indexee », 1 « page avec redirection »). Relancer une demande d'indexation pour celles encore non indexees.
+- Respecter strictement les conventions techniques decrites dans CONTENT-PLAN.md (URLs sans `.html`, modele de page du 14/09, `Article` + `BreadcrumbList`, lien vers `/poudre-de-sidr`) pour chaque nouvel article.
+- Position moyenne Google en degradation sur 4 semaines (10.1 -> 8.2 -> 18.2 -> 26.1) : la hausse d'impressions sur de nouvelles requetes longue traine (feuille de jujubier bienfaits, plante sidr, masque sidr cheveux, positions 30-75) explique une partie de la baisse ; suivre surtout les positions de « poudre de sidr » et « sidr » sur la home et la page pilier.
+- Bing Webmaster Tools : reconnexion toujours a faire (session non authentifiee depuis 4 semaines) ; activer IndexNow des que possible.
 
 ## Ou trouver les chiffres
 
