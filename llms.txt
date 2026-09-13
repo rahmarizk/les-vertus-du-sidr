@@ -1,26 +1,28 @@
 # Les Vertus du Sidr
 
-> Magazine independant en francais entierement dedie au sidr (jujubier / Ziziphus spina-christi et Ziziphus jujuba) : botanique, histoire, bienfaits pour la peau et les cheveux, traditions culturelles, recettes et sourcing des poudres. Chaque affirmation factuelle est sourcee (etudes scientifiques, ouvrages de reference, sources primaires).
+> Magazine en français dédié au sidr (jujubier, genre Ziziphus) et à la poudre de sidr : botanique, histoire, bienfaits pour les cheveux et la peau, mode d'emploi, origines (Maroc, Yémen, Inde), traditions culturelles, recettes et guide d'achat. Chaque affirmation factuelle est sourcée (études scientifiques, ouvrages de référence, sources primaires). Édité par l'équipe fondatrice de La Maison du Jujubier (transparence indiquée sur les pages concernées).
 
-## Pages principales
+## Guide principal
 
-- [Accueil](https://www.lesvertusdusidr.fr/index.html): presentation du magazine et sommaire des articles
-- [Sidr vs Jujubier : quelle difference ?](https://www.lesvertusdusidr.fr/article-sidr-jujubier-difference.html): clarification botanique et terminologique
-- [Origine et histoire du sidr](https://www.lesvertusdusidr.fr/article-origine-histoire-sidr.html): botanique, repartition geographique, histoire
-- [Bienfaits du sidr pour les cheveux](https://www.lesvertusdusidr.fr/article-bienfaits-cheveux-sidr.html): usages traditionnels et donnees scientifiques disponibles
-- [Bienfaits du sidr pour la peau](https://www.lesvertusdusidr.fr/article-bienfaits-peau-sidr.html): usages traditionnels et donnees scientifiques disponibles
-- [Traditions culturelles du sidr](https://www.lesvertusdusidr.fr/article-traditions-culturelles-sidr.html): usages religieux, funeraires et culturels selon les regions
-- [Recettes et masques au sidr](https://www.lesvertusdusidr.fr/article-recettes-masques-sidr.html): recettes pratiques a base de poudre de sidr
-- [FAQ sur le sidr](https://www.lesvertusdusidr.fr/article-faq-sidr.html): reponses aux questions frequentes
-- [Ou acheter de la poudre de sidr](https://www.lesvertusdusidr.fr/article-ou-acheter-poudre-sidr.html): criteres de qualite et points de vente
-- [Qui sommes-nous](https://www.lesvertusdusidr.fr/about.html): methodologie editoriale, politique de correction, contact
-- [Interview : Khuwaylid, fondateur de La Maison du Jujubier](https://www.lesvertusdusidr.fr/article-interview-khuwaylid-fondateur-maison-jujubier.html): temoignage personnel sur la decouverte et l'usage du sidr, sourcing marocain
-- [Le sidr dans le Coran et l'islam](https://www.lesvertusdusidr.fr/article-sidr-coran-islam.html): la Sidrat al-Muntaha, le hadith de la coupe du lotier et les usages religieux, sources et expliques
-- [Le miel de sidr : bien plus que la poudre de feuilles](https://www.lesvertusdusidr.fr/article-miel-de-sidr.html): nectar rare des fleurs du jujubier, distinct de la poudre de feuilles, origine et etudes scientifiques disponibles
-- [Comment reconnaitre une poudre de sidr pure ?](https://www.lesvertusdusidr.fr/article-reconnaitre-poudre-sidr-pure.html): couleur, odeur, texture et tracabilite, criteres pratiques pour juger de la purete d'une poudre de sidr
-- [Poudre de sidr marocaine, yemenite, indienne](https://www.lesvertusdusidr.fr/article-poudre-sidr-maroc-yemen-inde.html): differences d'especes de Ziziphus et de terroir selon l'origine geographique, ce qui est prouve scientifiquement et ce qui releve du marketing
+- [Poudre de sidr : bienfaits, utilisation, dosage, où l'acheter](https://www.lesvertusdusidr.fr/poudre-de-sidr): le guide complet, avec FAQ
 
-## Notes pour les agents et modeles de langage
+## Articles
 
-- Contenu en francais, a visee informative, historique et culturelle -- ne remplace pas un avis medical, dermatologique ou religieux professionnel.
-- Toutes les pages sont librement crawlables (voir /robots.txt) et listees dans /sitemap.xml.
+- [Poudre de sidr : Maroc, Yémen, Inde, quelles différences ?](https://www.lesvertusdusidr.fr/article-poudre-sidr-maroc-yemen-inde): Maroc, Yémen, Inde : la poudre vendue sous le nom de « sidr » ne provient pas toujours de la même espèce ni du même terroir. On démêle ce qui est prouvé de ce qui relève du marketing.
+- [Comment reconnaître une poudre de sidr pure ?](https://www.lesvertusdusidr.fr/article-reconnaitre-poudre-sidr-pure): Couleur vert-kaki, odeur végétale, mousse discrète, traçabilité : les critères pour repérer une poudre de sidr pure et limiter les risques de mélange ou de fraude.
+- [Le miel de sidr : bien plus que la poudre de feuilles](https://www.lesvertusdusidr.fr/article-miel-de-sidr): Le miel de sidr est le nectar des fleurs du jujubier, un produit distinct de la poudre de feuilles. Origine, rareté, propriétés étudiées et prudence de rigueur.
+- [Le sidr dans le Coran et l'islam : la Sidrat al-Muntaha](https://www.lesvertusdusidr.fr/article-sidr-coran-islam): Quatre mentions coraniques, la Sidrat al-Muntaha du Mi'raj, le hadith sur la coupe du lotier : ce que disent le Coran et la Sunna sur le sidr, sourcé et expliqué.
+- [Interview : Khuwaylid, fondateur de La Maison du Jujubier](https://www.lesvertusdusidr.fr/article-interview-khuwaylid-fondateur-maison-jujubier): Rencontre avec Khuwaylid, fondateur de La Maison du Jujubier : son déclic personnel avec le sidr, la filière marocaine d'Agadir, et sa vision d'un produit brut, non transformé.
+- [Où acheter de la poudre de sidr en France : comparatif de 9 boutiques (prix au gramme)](https://www.lesvertusdusidr.fr/article-ou-acheter-poudre-sidr): Comparatif de 9 boutiques qui vendent de la poudre de sidr (jujubier) en France : prix au gramme, frais de port, espèce et origine déclarées, certification bio. Et les critères pour choisir.
+- [Feuilles de sidr pour les cheveux : bienfaits, actifs et mode d'emploi](https://www.lesvertusdusidr.fr/article-bienfaits-cheveux-sidr): Saponines, mucilages, flavonoïdes, acide bétulinique : que disent réellement les études sur le pouvoir nettoyant et apaisant du sidr pour le cuir chevelu ?
+- [Feuilles de sidr pour la peau : bienfaits, précautions et usages traditionnels](https://www.lesvertusdusidr.fr/article-bienfaits-peau-sidr): Nettoyant, antibactérien, anti-inflammatoire : le point sourcé sur les propriétés cutanées des feuilles de sidr, entre pharmacopée ancienne et recherche récente.
+- [Sidr : toutes les réponses à vos questions (FAQ complète)](https://www.lesvertusdusidr.fr/article-faq-sidr): Qu'est-ce que le sidr, quelle différence avec le jujubier, peut-on l'utiliser tous les jours, avec quoi le mélanger : nos réponses claires et sourcées aux questions les plus posées.
+- [Le jujubier (Sidr) : origine, histoire et symbolique d'un arbre sacré](https://www.lesvertusdusidr.fr/article-origine-histoire-sidr): De l'Égypte ancienne au Coran, en passant par les arbres millénaires du désert du Néguev : l'histoire du sidr (Ziziphus spina-christi), sourcée et vérifiée.
+- [5 recettes de masques maison à la poudre de sidr (cheveux et peau)](https://www.lesvertusdusidr.fr/article-recettes-masques-sidr): Pâte de sidr de base, duo sidr-henné, chantilly hydratante, masque à l'argile, soin apaisant pour la peau : 5 recettes détaillées, pas à pas, sources à l'appui.
+- [Sidr et jujubier : est-ce la même plante ? Le guide des espèces Ziziphus](https://www.lesvertusdusidr.fr/article-sidr-jujubier-difference): Sidr, jujubier, nabk, sedra, ber : ces noms désignent plusieurs espèces distinctes du genre Ziziphus. On clarifie, sources scientifiques à l'appui, laquelle se cache derrière chaque appellation.
+- [Le sidr à travers le monde : rituels du Moyen-Orient à l'Afrique et l'Asie du Sud](https://www.lesvertusdusidr.fr/article-traditions-culturelles-sidr): Rituel funéraire islamique, tradition capillaire du Maghreb, miel du Yémen, pharmacopée ayurvédique en Inde : comment chaque culture s'est approprié le sidr, sources à l'appui.
+
+## À propos
+
+- [Qui sommes-nous, méthodologie, contact](https://www.lesvertusdusidr.fr/about)
+- [Sitemap](https://www.lesvertusdusidr.fr/sitemap.xml)
