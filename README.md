@@ -1,51 +1,44 @@
 # Les Vertus du Sidr — code source du blog
 
-Blog statique (HTML + CSS, sans dépendance ni build) sur le sidr (jujubier), design inspiré de la structure du blog Yuka avec la palette de marque « Les Vertus du Sidr » (vert profond, or, fond crème).
+Blog statique (HTML + CSS, sans JavaScript ni dépendance) sur le sidr (jujubier) : https://www.lesvertusdusidr.fr — édité par RAHMA&RIZK (SASU, Paris).
 
-## Faire tourner le blog en local
+## Hébergement et déploiement
 
-Aucune installation n'est nécessaire : ouvrez simplement `index.html` dans votre navigateur (double-clic, ou clic droit → Ouvrir avec → votre navigateur).
+- Hébergé sur **Cloudflare Workers** (assets statiques). Chaque commit sur `main` déclenche un build automatique (environ 1 minute).
+- Cloudflare sert les fichiers `x.html` à l'URL propre `/x` et redirige `/x.html` → `/x`, `/index.html` → `/`. **Toutes les URLs du site sont donc sans `.html`** (liens, canonical, sitemap).
+- `lesvertusdusidr.fr` redirige en 301 vers `www.lesvertusdusidr.fr` (règle de redirection Cloudflare).
+- `_headers` (cache, en-têtes de sécurité) et `_redirects` (`/news-sitemap.xml` → `/sitemap.xml`) sont pris en compte par Cloudflare.
 
-Pour un rendu identique à celui d'un vrai serveur (recommandé, notamment pour tester le SEO), vous pouvez aussi lancer un petit serveur local :
+## Structure des fichiers (à plat)
 
-```bash
-# Avec Python 3 (déjà installé sur Mac/Linux, à installer sur Windows)
-cd chemin/vers/le/dossier
-python3 -m http.server 8000
-# puis ouvrez http://localhost:8000 dans votre navigateur
-```
+| Fichier | Rôle |
+|---|---|
+| `index.html` | Accueil (H1 « sidr / poudre de sidr », bloc « Par où commencer », grille d'articles) |
+| `poudre-de-sidr.html` | **Page pilier** `/poudre-de-sidr` (guide complet, FAQ, tableaux) — cible « poudre de sidr » |
+| `article-*.html` | Articles (14 au 14/09/2026) |
+| `about.html`, `mentions-legales.html` | Qui sommes-nous (liens d'intérêt) ; mentions légales (LCEN, `noindex`) |
+| `style.css` | Feuille de style unique (chargée en `style.css?v=3`) |
+| `logo.jpg` / `logo.webp`, `img-icon.svg` | Logo (720 px) et favicon |
+| `img-cover-*.jpg` + `.webp` + `-600.webp`, `body-*.jpg` + `.webp` + `-600.webp` | Images optimisées le 14/09/2026 (max 1 200 px, JPG progressif + WebP en deux tailles, servies via `<picture>`) |
+| `sitemap.xml`, `robots.txt`, `llms.txt` | Fichiers techniques (le sitemap liste les URLs propres avec `lastmod`) |
+| `CONTENT-PLAN.md` | Plan éditorial + **conventions techniques obligatoires** pour tout nouvel article |
+| `KPI-TRACKING.md` | Suivi hebdomadaire (Search Console, Cloudflare, Bing) et mots-clés → pages |
 
-## Structure des fichiers
+## Comment le site est généré
 
-Tous les fichiers sont volontairement à plat (pas de sous-dossiers), pour que les liens fonctionnent aussi bien en ouverture directe des fichiers qu'avec un serveur local.
+Les pages en ligne sont produites par un générateur Python (`build.py`, hors dépôt : dossier `lesvertusdusidr-site/site/` chez l'éditeur) à partir de sources (`src/parts/<slug>.head.html` + `<slug>.article.html`, `src/pages.py`, `src/pilier.py`). Le générateur normalise : URLs propres, `Article` + `BreadcrumbList` (+ `FAQPage` quand il y a une FAQ), sommaire depuis les H2, images (`<picture>` WebP, `width`/`height`, `loading`, `fetchpriority` sur l'image de couverture), header/nav/footer, sitemap, robots, `_headers`, `_redirects`, `llms.txt`. `python3 build.py` → `dist/` à uploader tel quel dans ce dépôt.
 
-- `index.html` — page d'accueil (hero, filtres de catégories, grille d'articles)
-- `about.html` — page « Qui sommes-nous » (méthodologie éditoriale, contact — utile pour la crédibilité éditoriale et Google News)
-- `article-*.html` — les 7 articles du magazine
-- `style.css` — feuille de style unique (variables de couleurs en haut du fichier)
-- `img-logo.svg`, `img-icon.svg` — logo et favicon (voir ci-dessous pour votre logo définitif)
-- `img-cover-*.svg` — illustrations de couverture de chaque article, en SVG vectoriel (aucune dépendance externe, fonctionne 100% hors-ligne)
-- `robots.txt`, `sitemap.xml`, `news-sitemap.xml` — fichiers techniques SEO / Google News
+Un article ajouté directement dans le dépôt (publication automatique du vendredi) doit suivre la section « Conventions techniques » de `CONTENT-PLAN.md` ; il est ensuite réintégré dans les sources du générateur.
 
-## Intégrer votre logo définitif
+## Ajouter un article (résumé)
 
-Vous m'avez transmis votre logo (arbre + « Les Vertus du Sidr ») en cours de conversation. Pour des raisons techniques de cette session (le bac à sable d'exécution de fichiers était indisponible), j'ai recréé une version SVG du logo dans les mêmes couleurs en attendant, plutôt que de copier directement votre fichier image.
-
-Pour utiliser votre fichier original :
-
-1. Enregistrez votre logo sous le nom `logo.png` (ou `logo.jpg`) dans ce même dossier.
-2. Remplacez, dans chaque fichier `.html`, les deux occurrences de `img-logo.svg` par `logo.png` (recherche/remplace global — tous les fichiers utilisent exactement ce nom).
-3. Le favicon (`img-icon.svg`, référencé dans `<link rel="icon">`) peut rester tel quel, ou être remplacé par une version carrée recadrée de votre logo.
-
-Dites-le-moi si vous voulez que je fasse ce remplacement à votre place lors d'une prochaine session — je pourrai le faire automatiquement dès que l'environnement d'exécution est disponible.
-
-## Avant la mise en ligne
-
-- **Nom de domaine** : toutes les URLs canoniques, Open Graph et sitemaps utilisent le domaine provisoire `https://www.lesvertusdusidr.fr/`. Remplacez-le par votre vrai nom de domaine avant publication (recherche/remplace global sur tous les fichiers).
-- **Google News** : depuis octobre 2025, Google n'exige plus de candidature manuelle — l'inclusion dépend du crawl et du respect des critères éditoriaux (transparence de la rédaction, page « À propos », politique de correction, sitemap d'actualités à jour). Le fichier `news-sitemap.xml` ne doit contenir que les articles publiés dans les **48 dernières heures** : pensez à le régénérer à chaque nouvelle publication et à retirer les anciens articles.
-- **CMS** : ce livrable est un site 100% statique, pensé comme base avant l'intégration d'un CMS (WordPress, ou un générateur de site statique type Astro/Eleventy) dans un second temps, comme convenu.
-- **Emails / analytics** : le formulaire de newsletter sur `index.html` est une démonstration (il n'envoie rien) — à connecter à votre outil d'emailing.
+1. Copier la structure d'un article récent (`article-poudre-sidr-maroc-yemen-inde.html`) : même `<head>`, header à 9 entrées, footer.
+2. URLs sans `.html` partout ; `canonical`/`og:url`/`mainEntityOfPage` = `https://www.lesvertusdusidr.fr/<slug>`.
+3. JSON-LD `Article` (auteur : Organization « Rédaction Les Vertus du Sidr », `/about`) + `BreadcrumbList`.
+4. Image de couverture `img-cover-<slug-court>.jpg` ≤ 200 Ko (idéalement + `.webp` et `-600.webp`), dans `<figure class="article-cover">`.
+5. Au moins 3 liens internes dont 1 vers `/poudre-de-sidr` ; 1 lien retour depuis la page la plus proche.
+6. Ajouter une carte dans `index.html` et une entrée `<url>` dans `sitemap.xml` ; demander l'indexation dans Search Console.
 
 ## Sourcing éditorial
 
-Chaque article contient un encart « Sources » en bas de page avec des liens vers les études, ouvrages ou pages de référence utilisés pour sa rédaction. Aucune information n'a été inventée : lorsque la science manque, l'article le précise explicitement plutôt que de présenter une allégation commerciale comme un fait établi.
+Chaque article contient un encart « Sources » en bas de page (études, ouvrages, pages de référence). Aucune information n'est inventée : lorsque la science manque, l'article le précise plutôt que de présenter une allégation commerciale comme un fait établi. Le site est édité par la société qui commercialise la poudre de sidr La Maison du Jujubier ; ce lien d'intérêt est indiqué sur « Qui sommes-nous », dans les mentions légales et sur les pages d'achat (`rel="sponsored"` sur le produit maison, `rel="nofollow"` sur les boutiques tierces).
