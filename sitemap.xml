@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://www.lesvertusdusidr.fr/</loc><lastmod>2026-09-14</lastmod><priority>1.0</priority></url>
+<url><loc>https://www.lesvertusdusidr.fr/</loc><lastmod>2026-09-18</lastmod><priority>1.0</priority></url>
 <url><loc>https://www.lesvertusdusidr.fr/about</loc><lastmod>2026-09-14</lastmod><priority>0.3</priority></url>
 <url><loc>https://www.lesvertusdusidr.fr/article-bienfaits-cheveux-sidr</loc><lastmod>2026-09-14</lastmod><priority>0.8</priority></url>
 <url><loc>https://www.lesvertusdusidr.fr/article-bienfaits-peau-sidr</loc><lastmod>2026-09-14</lastmod><priority>0.8</priority></url>
@@ -17,4 +17,5 @@
 <url><loc>https://www.lesvertusdusidr.fr/article-traditions-culturelles-sidr</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
 <url><loc>https://www.lesvertusdusidr.fr/mentions-legales</loc><lastmod>2026-09-14</lastmod><priority>0.1</priority></url>
 <url><loc>https://www.lesvertusdusidr.fr/poudre-de-sidr</loc><lastmod>2026-09-14</lastmod><priority>1.0</priority></url>
+<url><loc>https://www.lesvertusdusidr.fr/article-sidr-pellicules-cuir-chevelu</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
