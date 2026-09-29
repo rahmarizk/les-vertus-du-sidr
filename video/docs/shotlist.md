@@ -1,0 +1,20 @@
+# Shot list — « Les Vertus du Sidr » (9:16, 1080×1920, 60 fps, 24 s)
+
+**Goal:** in 24 seconds the viewer understands what sidr powder *is* (dried, ground jujube leaves),
+why it cleans (saponins, mucilages, flavonoids), how it is used, and where it comes from. The
+feel should be premium, calm and trustworthy, in line with a publication that sources its claims.
+
+**Music:** 120 BPM, D Hijaz. Beat = 0.5 s, bar = 2 s. All cuts land on a beat.
+
+| # | Time | Visual | Text | Motion | Transition out | Camera | Sound cue |
+|---|---|---|---|---|---|---|---|
+| 1 HOOK | 0.0–2.2 | Forest-green field. A giant odometer rolls `0000 → 3000` and is already spinning on frame 0. | `DEPUIS PLUS DE` / **3000** / *ans, une feuille lave les cheveux.* | Digits roll on UI springs with staggered stops; the italic line rises word by word | Zoom **through the last "0"**: its counter becomes a circular iris that opens onto shot 2 | Static, then a 1 → 9× push into the 0 | Sub-drop at 0.0, odometer ticks, whoosh into 2.0 |
+| 2 THE TREE | 2.0–5.0 | Desert tree at golden hour inside a **Moorish arch** window; the Arabic word سدر breaks out of the frame | `01 — L'ARBRE` / **Le sidr.** / `ZIZIPHUS SPINA-CHRISTI` / *le jujubier, en français* | Arch grows from the iris; title letters rise on heavy type springs; Arabic wipes in **right to left** | The **arch morphs into a leaf silhouette** (same polygon, 240 points) while the background turns cream | Slow Ken Burns inside the arch | Kick enters at 2.0, pluck on title, whoosh at 4.6 |
+| 3 THE LEAF | 5.0–8.5 | Cream page. The photo-filled leaf becomes a drawn sidr leaf (3 basal veins, like the real *Ziziphus* leaf). It dries (green → khaki), breaks into 1,400 grains, and is sifted down | `02 — LA FEUILLE` / **Tout part d'une feuille.** then a list: *Séchée. Broyée. Tamisée.* | Veins draw on; each process word arrives on a beat and pushes the previous one up and dims it | Grains fall and settle into a **disc**, which becomes the bowl | Static, minimal | Clicks on 6.0 / 6.7 / 7.4, grain "shhh" texture |
+| 4 THE ACTIVES | 8.5–12.5 | Dark field grows radially from the disc; a top-down photo of sidr powder in its bowl fills the disc and rotates slowly. Leader lines run from the rim to a 3-row table | `03 — CE QU'ELLE CONTIENT` / **Trois actifs, une poudre.** / SAPONINES *nettoient en douceur*, MUCILAGES *donnent la texture*, FLAVONOÏDES *antioxydants* | Hairlines draw left to right; rows rise on card springs, one per beat | The bowl **shrinks into the first progress dot** of shot 5 while a cream circle opens from it | Very slow rotation of the bowl | Pad swells, pluck per row, whoosh at 12.2 |
+| 5 THE RITUAL | 12.5–16.5 | Cream. A horizontal strip of three panels with huge numerals and a 3-node tracker | `04 — LE RITUEL` / **2–4** *c. à soupe + eau chaude* → **10–30** *minutes de pose* (an arc sweeps) → **1×** *par semaine, rinçage tiède* (a water line draws) | Camera pans panel to panel on critically damped springs; numerals scale in from 0.92 | The camera **keeps panning** out of the strip into a dark panel | Horizontal pans at 13.8 / 15.1 / 16.4 | Whoosh on each pan, kick + clap |
+| 6 ORIGINS | 16.5–20.5 | Dark, minimal. Three rows, one per origin, each with its own leaf glyph | `05 — ORIGINES` / **Un arbre, plusieurs terroirs.** / MAROC *Ziziphus lotus* · YÉMEN *Ziziphus spina-christi* · INDE *Ziziphus mauritiana* / “La traçabilité compte davantage.” | Rows rise on beats; separators draw | The rows leave upward; the **Yemen leaf flies to center** and becomes the logo leaf | Static | Pluck per row, pad change at 20.5 |
+| 7 END CARD | 20.5–24.0 | Leaf with gold veins drawing, Arabic سدر above, wordmark | سدر / **Les Vertus du Sidr** / *La tradition, sourcée.* / `lesvertusdusidr.fr` | Wordmark rises on type springs; gold rule grows from center | Hold 1.2 s (loopable to frame 0, both dark) | Micro push 1.00 → 1.03 | Final chord, reverse swell, ring-out |
+
+Rhythm through contrast: dense (1, 4) ↔ minimal (3, 6); large numerals (1, 5) ↔ small labels (4);
+fast pans (5) ↔ held stillness (6, 7); dark ↔ light every shot.
