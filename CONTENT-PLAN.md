@@ -24,6 +24,37 @@ Le site a ete refondu le 14/09/2026 (URLs propres, page pilier, nouveau header).
 
 > **Dossier de travail local (note du 02/10/2026)** : le dossier connecte cote utilisateur est `C:\Users\KB\Documents\RAHMA&RIZK\Sidr - Contenu & Marketing\Blog Les Vertus du Sidr`. Le miroir des fichiers du site et le classeur `KPI-Suivi-Sidr.xlsx` sont dans son sous-dossier `Site actuel\`. L'ancien chemin `C:\Users\KB\Documents\Les Vertus du Sidr` indique dans la tache planifiee n'existe pas : demander la connexion du bon dossier en debut d'execution.
 
+## Charte visuelle (revue des images du 02/10/2026)
+
+Audit du 02/10/2026 : `img-cover-acheter.jpg` servait de couverture a TROIS pages, `body-difference.jpg` illustrait DEUX articles, et sept couvertures sur quinze montraient la meme scene (bol de poudre verte sur table en bois, linge ecru, feuilles de jujubier). Corrige le 02/10/2026 par six nouvelles images generees avec Gemini.
+
+**Regle : une scene par page, jamais deux pages avec la meme image.** Avant de generer une couverture, verifier dans la liste ci-dessous qu'aucune page n'occupe deja ce type de scene, et choisir un angle different (macro, geste humain, nature morte claire, exterieur, lieu, objet).
+
+| Page | Image | Scene occupee |
+|---|---|---|
+| `/` (home, og) et `/poudre-de-sidr` | img-cover-poudre-de-sidr.jpg | Macro de la poudre sur fond sombre, lumiere rasante |
+| `/article-reconnaitre-poudre-sidr-pure` | img-cover-reconnaitre.jpg | Flat lay clinique sur marbre blanc, deux poudres comparees + tamis |
+| `/article-ou-acheter-poudre-sidr` | img-cover-acheter.jpg | Sachets kraft et pots sur une etagere (packaging) |
+| `/article-sidr-pellicules-cuir-chevelu` | img-cover-cuir-chevelu.jpg | Raie de cheveux et peigne en bois, vue de dos |
+| `/article-bienfaits-cheveux-sidr` | img-cover-cheveux.jpg | Cheveux mouilles tenus a la main |
+| `/article-bienfaits-peau-sidr` | img-cover-peau.jpg | Visage avec masque applique |
+| `/article-sidr-et-henne-cheveux` | img-cover-sidr-henne.jpg | Deux bols cote a cote, poudre verte et poudre rousse |
+| `/article-poudre-de-sidr-avis` | img-cover-sidr-avis.jpg | Bol sur table en bois avec carnet et crayon |
+| `/article-recettes-masques-sidr` | img-cover-recettes.jpg | Flat lay clair, bol et feuilles disposees |
+| `/article-faq-sidr` | img-cover-faq.jpg | Bocal en verre et petit tas de poudre, fond clair |
+| `/article-poudre-sidr-maroc-yemen-inde` | img-cover-poudre-maroc-yemen-inde.jpg | Trois bocaux alignes sur une etagere |
+| `/article-sidr-jujubier-difference` | img-cover-difference.jpg | Assiettes de feuilles et de jujubes rouges (contient du texte incruste a refaire) |
+| `/article-origine-histoire-sidr` | img-cover-histoire.jpg | Arbre isole dans le desert au couchant |
+| `/article-traditions-culturelles-sidr` | img-cover-traditions.jpg | Ruelle de souk avec sacs d'epices |
+| `/article-sidr-coran-islam` | img-cover-coran-islam.jpg | Lanterne, chapelet et feuilles seches |
+| `/article-miel-de-sidr` | img-cover-miel-de-sidr.jpg | Pot de miel (basse resolution 648x318, a refaire) |
+| `/article-interview-...` et `/auteur-khuwaylid` | img-cover-interview.jpg | Bol vu de dessus sur fond terracotta |
+| `/about` | img-cover-about.jpg | Branche de jujubier en contre-jour sur ciel clair |
+
+Images en corps d'article (meme regle, une par article) : body-cheveux, body-difference, body-faq, body-interview, body-maroc-yemen-inde (planche d'herbier, 3 rameaux), body-origine, body-peau, body-recettes-etapes (3 bols : poudre seche, melange grumeleux, pate lisse), body-sidr-avis, body-sidr-henne, body-traditions.
+
+**Reste a faire (qualite, non bloquant)** : regenerer `img-cover-miel-de-sidr.jpg` (648x318, trop petite pour une couverture) et `img-cover-difference.jpg` (texte anglais incruste et deforme par l'IA, contraire a la regle « no text » de la section 7 de la tache planifiee).
+
 ## Statuts possibles
 
 - `A faire` -- sujet en attente, pas encore commence
