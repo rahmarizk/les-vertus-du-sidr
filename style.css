@@ -207,9 +207,12 @@ p { margin: 0 0 1.1em; }
 }
 
 .article-grid.featured-grid {
-  grid-template-columns: 1.3fr 1fr;
+  grid-template-columns: 1fr 1fr;
   align-items: stretch;
 }
+/* Les deux cartes mises en avant gardent la meme largeur et une image plus
+   basse que large, pour rester dans le rythme des cartes de la grille. */
+.featured-grid .card .card-media { aspect-ratio: 2/1; }
 
 @media (max-width: 920px) { .article-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 640px) {
