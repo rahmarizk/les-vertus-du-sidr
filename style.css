@@ -210,9 +210,13 @@ p { margin: 0 0 1.1em; }
   grid-template-columns: 1fr 1fr;
   align-items: stretch;
 }
-/* Les deux cartes mises en avant gardent la meme largeur et une image plus
-   basse que large, pour rester dans le rythme des cartes de la grille. */
-.featured-grid .card .card-media { aspect-ratio: 2/1; }
+/* Au-dela de 920px, les deux cartes mises en avant sont plus larges que celles
+   de la grille a trois colonnes : on aplatit leur visuel pour que sa hauteur
+   reste proche de celle des autres. En dessous, toutes les cartes ont la meme
+   largeur, donc le ratio commun 16/10 suffit. */
+@media (min-width: 921px) {
+  .featured-grid .card .card-media { aspect-ratio: 2/1; }
+}
 
 @media (max-width: 920px) { .article-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 640px) {
