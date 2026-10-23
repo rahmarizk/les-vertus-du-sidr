@@ -43,11 +43,11 @@ Audit du 02/10/2026 : `img-cover-acheter.jpg` servait de couverture a TROIS page
 | `/article-recettes-masques-sidr` | img-cover-recettes.jpg | Flat lay clair, bol et feuilles disposees |
 | `/article-faq-sidr` | img-cover-faq.jpg | Bocal en verre et petit tas de poudre, fond clair |
 | `/article-poudre-sidr-maroc-yemen-inde` | img-cover-poudre-maroc-yemen-inde.jpg | Trois bocaux alignes sur une etagere |
-| `/article-sidr-jujubier-difference` | img-cover-difference.jpg | Assiettes de feuilles et de jujubes rouges (contient du texte incruste a refaire) |
+| `/article-sidr-jujubier-difference` | img-cover-difference.jpg | Flat lay sur linge de lin : rameau de sidr feuillu a gauche, rameau de jujubier charge de fruits rouges a droite (regeneree le 23/10/2026, 1200x655, sans texte) |
 | `/article-origine-histoire-sidr` | img-cover-histoire.jpg | Arbre isole dans le desert au couchant |
 | `/article-traditions-culturelles-sidr` | img-cover-traditions.jpg | Ruelle de souk avec sacs d'epices |
 | `/article-sidr-coran-islam` | img-cover-coran-islam.jpg | Lanterne, chapelet et feuilles seches |
-| `/article-miel-de-sidr` | img-cover-miel-de-sidr.jpg | Pot de miel (basse resolution 648x318, a refaire) |
+| `/article-miel-de-sidr` | img-cover-miel-de-sidr.jpg | Pot de miel ambre ouvert, cuillere a miel en bois et feuilles sechees sur table sombre (regeneree le 23/10/2026, 1200x655) |
 | `/article-interview-...` et `/auteur-khuwaylid` | img-cover-interview.jpg | Bol vu de dessus sur fond terracotta |
 | `/about` | img-cover-about.jpg | Branche de jujubier en contre-jour sur ciel clair |
 | `/article-ghassoul-et-sidr` | img-cover-ghassoul-sidr.jpg | Deux bols (ghassoul gris, sidr vert) sur zellige, seau de hammam en cuivre |
@@ -56,7 +56,7 @@ Audit du 02/10/2026 : `img-cover-acheter.jpg` servait de couverture a TROIS page
 
 Images en corps d'article (meme regle, une par article) : body-cheveux, body-difference, body-faq, body-interview, body-maroc-yemen-inde (planche d'herbier, 3 rameaux), body-origine, body-peau, body-recettes-etapes (3 bols : poudre seche, melange grumeleux, pate lisse), body-sidr-avis, body-sidr-henne, body-traditions.
 
-**Reste a faire (qualite, non bloquant)** : regenerer `img-cover-miel-de-sidr.jpg` (648x318, trop petite pour une couverture) et `img-cover-difference.jpg` (texte anglais incruste et deforme par l'IA, contraire a la regle « no text » de la section 7 de la tache planifiee).
+**Reste a faire (qualite, non bloquant)** : rien a ce jour. Les deux dernieres couvertures en attente ont ete regenerees avec Gemini le 23/10/2026 -- `img-cover-miel-de-sidr.jpg` (passe de 648x318 a 1200x655, 130 Ko ; dimensions mises a jour dans `article-miel-de-sidr.html` et dans la carte de la home) et `img-cover-difference.jpg` (1200x655, 173 Ko, sans texte incruste ; memes dimensions qu'avant, donc aucune autre page a modifier). Variantes `.webp` 1200 et 600 regenerees pour les deux. Originaux Gemini conserves dans `Site actuel/publication-2026-10-23/`.
 
 ## Statuts possibles
 
