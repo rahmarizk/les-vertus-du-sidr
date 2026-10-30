@@ -79,7 +79,7 @@ Chaque vendredi, ajouter une nouvelle ligne en bas du tableau (ne jamais supprim
 
 - **La requete parasite s'estompe.** « lefildastrid.fr cheveux bienfaits » (navigation vers un AUTRE site) passe de 133 a 52 impressions, soit 7 % du total contre 19 % la semaine derniere. Le diagnostic par page redevient lisible. Simple surveillance, aucune action.
 
-- **Deux acces a retablir cote utilisateur.** Bing Webmaster Tools : session non authentifiee dans les deux navigateurs, aucun chiffre Bing cette semaine (aucun mot de passe saisi, conformement a la consigne). Google Search Console dans Chrome demande une reverification d'identite ; les chiffres de cette semaine ont pu etre releves via le navigateur integre, ou la session lamaisondujujubier@gmail.com est encore valide -- mais la demande d'indexation de la nouvelle URL n'a pas pu etre faite. A reconnecter avant le 06/11.
+- **Deux acces a retablir cote utilisateur.** Bing Webmaster Tools : session non authentifiee dans les deux navigateurs, aucun chiffre Bing cette semaine (aucun mot de passe saisi, conformement a la consigne). Google Search Console dans Chrome demande une reverification d'identite ; les chiffres de cette semaine ont pu etre releves via le navigateur integre, ou la session lamaisondujujubier@gmail.com est encore valide -- mais la demande d'indexation de la nouvelle URL n'a pas pu etre faite. A reconnecter avant le 06/11. (L'image de couverture de l'article du 30/10, initialement en echec, a finalement ete generee et mise en ligne le jour meme : voir CONTENT-PLAN.md pour la methode.)
 
 ## Ou trouver les chiffres
 
